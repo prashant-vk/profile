@@ -11,6 +11,10 @@
 - 📫 How to reach me
 **prashant.vishwakarma@oaktreecloud.in**
 
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
 <p align="left"></p>
 
 <h3 align="left">Languages and Tools:</h3>
